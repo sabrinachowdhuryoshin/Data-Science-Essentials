@@ -1,1 +1,1 @@
-# DataScienceEssentials
+This repository contains essential data science related codes.
